@@ -156,4 +156,30 @@
   color: teal;
   cursor: pointer;
 }
+#projects {
+  display: flex;
+  flex-direction: column;
+  background-color: palegreen;
+  height: 500px;
+  justify-content: top;
+  align-items: center;
+  color: white;
+}
+#projects h1 {
+  margin: 50px;
+}
+a {
+  text-decoration: none;
+  width: 150px;
+  display: flexbox;
+}
+.icons a:hover img {
+  opacity: 0.5;
+  transition: all 0.25s;
+  -webkit-transition: all 0.25s;
+}
+img {
+  border-radius: 35%;
+}
+
    
