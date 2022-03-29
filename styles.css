@@ -168,7 +168,7 @@
 #projects h1 {
   margin: 50px;
 }
-a{
+a {
   text-decoration: none;
   width: 150px;
   display: flexbox;
@@ -180,4 +180,5 @@ a{
 }
 img {
   border-radius: 35%;
-}   
+}
+
